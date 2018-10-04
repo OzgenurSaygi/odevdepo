@@ -1,0 +1,7 @@
+{
+  "name": "odev2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
